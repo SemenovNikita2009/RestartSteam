@@ -1,4 +1,3 @@
-import subprocess
 import signal
 import psutil
 import os
